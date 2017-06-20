@@ -1,0 +1,13 @@
+D:\personal\PSQTransform\PSQTransform\bin\Debug\PSQTransform.exe.config
+D:\personal\PSQTransform\PSQTransform\bin\Debug\PSQTransform.exe
+D:\personal\PSQTransform\PSQTransform\bin\Debug\PSQTransform.pdb
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.csproj.ResolveComReference.cache
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.Form1.resources
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.Properties.Resources.resources
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.csproj.GenerateResource.Cache
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.exe
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.pdb
+D:\personal\PSQTransform\PSQTransform\bin\Debug\PSQTransform.exe.manifest
+D:\personal\PSQTransform\PSQTransform\bin\Debug\PSQTransform.application
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.exe.manifest
+D:\personal\PSQTransform\PSQTransform\obj\Debug\PSQTransform.application
